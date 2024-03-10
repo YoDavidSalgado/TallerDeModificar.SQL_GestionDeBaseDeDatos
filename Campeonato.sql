@@ -1,3 +1,5 @@
+-- SQL
+
 create database campeonato;
 use campeonato;
 
